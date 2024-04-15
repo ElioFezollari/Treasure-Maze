@@ -1,0 +1,2 @@
+Player Points: 0
+Player Treasures: 7
